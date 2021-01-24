@@ -1,6 +1,6 @@
 # Magic Mussel
 ## Description
-This App is a Just-For-Fun App about the Magic Mussel from Spongebob that can give funny answers. It was my first attempt to programm an Android App with Kotlin. 
+This Android-App is a Just-For-Fun App about the Magic Mussel from Spongebob that can give funny answers. It was my first attempt to programm an Android App with Kotlin. 
 The App has the following features:
 
 - Getting a random answer from the magic mussel by tapping it (Answer can be seen as Toast Message and heard as Audio TTS)

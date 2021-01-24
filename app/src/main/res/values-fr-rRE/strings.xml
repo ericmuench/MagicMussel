@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Moule magique</string>
+    <string name="answer_maybe">peut-être</string>
+    <string name="answer_no">Non</string>
+    <string name="answer_yes">Oui</string>
+    <string name="error_no_language_support">Erreur: Langue du système n\'est pas appuyé par sortie vocale!</string>
+    <string name="error_speachengine_initializing_failure">Erreur: L\'Initialisation de la sortie vocale est avorté par erreur!</string>
+    <string name="head_settings">Paramètres</string>
+    <string name="head_speech_settings">Paramètres pour la sortie vocale</string>
+    <string name="head_voice_output">Sortie vocale</string>
+    <string name="head_answer_management">Réponses de la moule magischel</string>
+    <string name="answer_default">Comment suis-je censé répondre à vos questions si je ne connais pas de réponses ? Veuillez enregistrer une réponse !</string>
+</resources>

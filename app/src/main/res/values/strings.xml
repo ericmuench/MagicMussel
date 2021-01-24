@@ -1,0 +1,30 @@
+<resources>
+    <!--app specific strings & Headlines-->
+    <string name="app_name">Magic Mussel</string>
+    <string name="head_settings">Settings</string>
+    <string name="head_speech_settings">Setting for Voice Output</string>
+    <string name="head_voice_output">Voice Output</string>
+    <string name="head_answer_management">Answers of the Magic Mussel</string>
+
+
+    <!--musselBtn default answers-->
+    <string name="answer_yes">Yes</string>
+    <string name="answer_no">No</string>
+    <string name="answer_maybe">Maybe</string>
+    <string name="answer_default">How am I supposed to answer your questions if I do not know any answers? Please enter an answer!</string>
+
+
+    <!--errors & warnings-->
+    <string name="error_no_language_support">Error: System Language is not supported by the Speech Engine!</string>
+    <string name="error_speachengine_initializing_failure">Error: Initialization of Speech-Engine failed!</string>
+
+    <!--shared preferences keys-->
+    <string name="shared_preferences_settings_key" translatable="false">Settings</string>
+    <string name="shared_preferences_settings_key_switch_voice_output" translatable="false">Switch_Voice_Output</string>
+    <string name="shared_preferences_settings_key_last_language" translatable="false">Last_Language</string>
+    <string name="shared_preferences_settings_key_language_last_yes" translatable="false">Last_Yes</string>
+    <string name="shared_preferences_settings_key_language_last_no" translatable="false">Last_No</string>
+    <string name="shared_preferences_settings_key_language_last_maybe" translatable="false">Last_Maybe</string>
+    <string name="shared_preferences_data_key" translatable="false">AnswersOfMagicMussel</string>
+    <string name="shared_preferences_data_answers_key" translatable="false">answerList</string>
+</resources>

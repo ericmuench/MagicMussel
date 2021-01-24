@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Magische Miesmuschel</string>
+    <string name="answer_yes">Ja</string>
+    <string name="answer_no">Nein</string>
+    <string name="answer_maybe">Vielleicht</string>
+    <string name="error_no_language_support">Fehler: Gewählte Sprache wird von der Sprachausgabe nicht unterstützt !</string>
+    <string name="error_speachengine_initializing_failure">Fehler: Sprachausgabe konnte nicht initialisiert werden</string>
+    <string name="head_settings">Einstellungen</string>
+    <string name="head_speech_settings">Einstellungen für die Sprachausgabe</string>
+    <string name="head_voice_output">Sprachausgabe</string>
+    <string name="head_answer_management">Antworten der magischen Miesmuschel</string>
+    <string name="answer_default">Wie soll ich deine Fragen beantworten, wenn ich keine Antwortmöglichkeiten kenne? Bitte speichere eine Antwort ein!</string>
+</resources>

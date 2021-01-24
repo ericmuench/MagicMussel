@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Mejillón mágico</string>
+    <string name="answer_yes">Sí</string>
+    <string name="answer_no">No</string>
+    <string name="answer_maybe">Tal vez</string>
+    <string name="error_no_language_support">Error: El idioma seleccionado no es compatible con la salida de voz!</string>
+    <string name="error_speachengine_initializing_failure">Error: No se ha podido inicializar la salida de voz</string>
+    <string name="head_answer_management">Respuestas del mejillón mágico</string>
+    <string name="head_speech_settings">Ajustes para la salida de voz</string>
+    <string name="head_settings">Ajustes</string>
+    <string name="head_voice_output">salida de voz</string>
+    <string name="answer_default">¿Cómo se supone que voy a responder a sus preguntas si no sé ninguna respuesta? Por favor, guarde una respuesta!</string>
+</resources>
